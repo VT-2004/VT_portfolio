@@ -110,7 +110,7 @@ const projects = [
     "App Router",
   ],
   github: "https://github.com/VT-2004/Assignment_digitalheros",
-  demo: "https://www.vht2004.com/",
+  demo: "https://assignment-digitalheros.vercel.app/",
   emoji: "📈",
   highlights: [
     "Long & Short support",
