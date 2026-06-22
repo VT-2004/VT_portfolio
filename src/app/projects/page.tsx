@@ -98,26 +98,26 @@ const projects = [
     ],
   },
   {
-    title: "Risk & Position Size Calculator",
-    subtitle: "Trading Risk Management & Position Sizing Tool",
-    description:
-      "A practical trading utility that calculates optimal position size, capital allocation, amount at risk, percentage of account exposure, and risk-to-reward ratio for both long and short trades. Includes intelligent trade validation, multi-currency support, and visual risk categorization to simplify disciplined trade execution.",
-    tech: [
-      "Next.js 14",
-      "React 18",
-      "JavaScript",
-      "CSS Modules",
-      "App Router",
-    ],
-    github: "https://github.com/VT-2004/Assignment_digitalheros",
-    demo: "https://www.vht2004.com/",
-    emoji: "📈",
-    highlights: [
-      "Long & Short support",
-      "Risk:Reward calculator",
-      "Multi-currency",
-    ],
-  },
+  title: "Risk & Position Size Calculator",
+  subtitle: "Trading Risk Management & Position Sizing Tool",
+  description:
+    "A practical trading utility that calculates optimal position size, capital allocation, amount at risk, percentage of account exposure, and risk-to-reward ratio for both long and short trades. Includes intelligent trade validation, multi-currency support, and visual risk categorization to simplify disciplined trade execution.",
+  tech: [
+    "Next.js 14",
+    "React 18",
+    "JavaScript",
+    "CSS Modules",
+    "App Router",
+  ],
+  github: "https://github.com/VT-2004/Assignment_digitalheros",
+  demo: "https://www.vht2004.com/",
+  emoji: "📈",
+  highlights: [
+    "Long & Short support",
+    "Risk:Reward calculator",
+    "Multi-currency",
+  ],
+},
   {
     title: "MovieVerse",
     subtitle: "Movie Discovery & Review Platform",
